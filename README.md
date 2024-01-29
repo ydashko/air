@@ -1,6 +1,6 @@
 # Air landing page
 
-- 👀 [DEMO LINK](https://ydashko.github.io/air/)
+- 👀 [DEMO LINK](https://ydashko.github.io/air-landing/)
 
 - Implemented landing page according to [Figma design](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35)
 
