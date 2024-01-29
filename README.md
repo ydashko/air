@@ -10,7 +10,7 @@
 - BEM
 - Javascript
 
-### The page is adapted to the following screens:
+### 🖥The page is adapted to the following screens:
 - Large screens 2560px
 - The design 1600px
 - Desktop 1280px
